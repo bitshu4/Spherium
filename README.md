@@ -1,5 +1,5 @@
 ﻿# Spherium for Slope Plus
-Welcome to **Spherium**, a mod that adds a skin system to Slope Plus. **Spherium** was originally meant to add a full-on gacha system to Slope Plus, but I reconsidered because people would be way too lazy to unlock skins. So, this is just a mod that adds some pre-made skins to the game, to which you can add your own by just adding your own image files to to the `SpheriumAssets` folder!
+Welcome to **Spherium**, a mod that adds a skin and trail system to Slope Plus. **Spherium** was originally meant to add a full-on gacha system to Slope Plus, but I reconsidered because people would be way too lazy to unlock skins. So, this is just a mod that adds some pre-made skins and customizable trails to the game, to which you can add your own skins by just adding your own image files to to the `SpheriumAssets` folder!
 
 ## Installation
 Installing **Spherium** is very easy.
