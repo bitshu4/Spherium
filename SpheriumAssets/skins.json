@@ -301,6 +301,12 @@
       "rarity": "Uber Super Rare"
     },
     {
+      "name": "test_skin",
+      "displayName": "Test Skin",
+      "description": "This is a testing skin. Hello World!",
+      "rarity": "Uber Super Rare"
+    },
+    {
       "name": "inverted_skin",
       "displayName": "Inverted Skin",
       "description": "Enemy of the default skin. Trying their best not to fit in.",
