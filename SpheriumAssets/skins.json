@@ -1,0 +1,352 @@
+{
+  "skins": [
+    {
+      "name": "default_texture",
+      "displayName": "Default Texture",
+      "description": "The classic default skin. Bland, but at least they're nice.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "blue_skin",
+      "displayName": "Blue Skin",
+      "description": "Blue like the ocean! A bit of a procrastinator.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "yellow_skin",
+      "displayName": "Yellow Skin",
+      "description": "For some reason has no description.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "red_skin",
+      "displayName": "Red Skin",
+      "description": "A red skin, born from the depths of hell. So angry, it tried to fight a wall and lost.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "rainbow_skin",
+      "displayName": "Rainbow Skin",
+      "description": "A little bit of everything. Was the track and field champion in high school.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "positive_skin",
+      "displayName": "Positive Skin",
+      "description": "Always positive. Likes playing around with abacuses.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "norwegian_skin",
+      "displayName": "Norwegian Skin",
+      "description": "Professional cross-country skier. Likes to complain about the price of gas.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "dominican_skin",
+      "displayName": "Dominican Skin",
+      "description": "Master of dance. Has a terrible sense of direction and is always getting lost.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "myanmarese_skin",
+      "displayName": "Myanmarese Skin",
+      "description": "An expert at chinlone, very shy, so he plays by himself. Solo chinlone-er.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "nauruan_skin",
+      "displayName": "Nauruan Skin",
+      "description": "Completely obsessed with phosphate mining, secretly dreaming about a grand ocean.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "uruguayan_skin",
+      "displayName": "Uruguayan Skin",
+      "description": "Their entire personality is mate. Former opera singer.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "french_skin",
+      "displayName": "French Skin",
+      "description": "Loves to be dramatic. Has a habit of surrendering, but only after winning, just to make a point.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "turkmenistani_skin",
+      "displayName": "Turkmenistani Skin",
+      "description": "Hobby astronomer. Once tried to use the Darvaza gas crater to make s'mores and failed.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "green_skin",
+      "displayName": "Green Skin",
+      "description": "Avid gardener. Stuck to being on the slope for eternity. Depressed.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "cosmic_skin",
+      "displayName": "Cosmic Skin",
+      "description": "Made of the fabric of space itself. Has a problem going through security at airports.",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "gold_skin",
+      "displayName": "Gold Skin",
+      "description": "Always shining bright and trying their best to be the center of attention at parties.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "victim_skin",
+      "displayName": "Victim Skin",
+      "description": "Wanted in several countries because of their color. Was born this way. Poor skin.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "overcomplicated_skin",
+      "displayName": "Overcomplicated Skin",
+      "description": "Always overcomplicating things. It's just a skin, there is no manual...",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "three_dimensional_skin",
+      "displayName": "Three Dimensional Skin",
+      "description": "Thinks they're actually three-dimensional. Dropped out of school early.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "camouflaged_skin",
+      "displayName": "Camouflaged Skin",
+      "description": "Invisible to the naked eye. Visible if you put on some clothes.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "stone_skin",
+      "displayName": "Stone Skin",
+      "description": "Sits patiently on beaches to see if anyone will try to skip them across the water.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "not_available_skin",
+      "displayName": "Not Available Skin",
+      "description": "Thought their design would look cooler than it did in the end.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "thick_skin",
+      "displayName": "Thick Skin",
+      "description": "Isn't hurt easily by criticism or insults. Get it? They have thick skin.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "thin_skin",
+      "displayName": "Thin Skin",
+      "description": "Is hurt easily by criticism or insults. Get it? They have thin skin.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "warm_skin",
+      "displayName": "Warm Skin",
+      "description": "Thinks gradients are way cooler than they are. Born in a microwave, raised in an oven.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "cool_skin",
+      "displayName": "Cool Skin",
+      "description": "Coolest skin in town. Gets all the skins. Good friends with Thin Skin.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "blurry_skin",
+      "displayName": "Blurry Skin",
+      "description": "Has slowly gone blurry over time. Thinks it's just a phase. Refuses to go to the doctor.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "spiral_skin",
+      "displayName": "Spiral Skin",
+      "description": "Has a disease who turned them this way. It's terminal. Spending their last days with their family.",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "normal_skin",
+      "displayName": "Normal Skin",
+      "description": "The normal-est of skins. Shame no one understands them. Has emotional ups and downs.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "black_and_white_skin",
+      "displayName": "Black And White Skin",
+      "description": "Had all life sucked out of them after their recording of their world record got corrupted.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "value_invert_skin",
+      "displayName": "Value Invert Skin",
+      "description": "Their life turned upside down after seeing what Yellow Skin did. Hasn't talked since.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "alien_skin",
+      "displayName": "Alien Skin",
+      "description": "Came to destroy everything. Stayed after everyone became friends with them because they look cool.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "warning_skin",
+      "displayName": "Warning Skin",
+      "description": "Keeps warning everyone about something round. Hates lemon-flavored candy.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "rhombus_skin",
+      "displayName": "Rhombus Skin",
+      "description": "Serial killer on the run. If you are missing any skins, it was probably them.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "cubism_skin",
+      "displayName": "Cubism Skin",
+      "description": "Fell into a well trying to drink some water. Now only speaks Khmer.",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "yotei_skin",
+      "displayName": "Yotei Skin",
+      "description": "Based on the popular, amazing-looking limited edition controller design.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "egg_skin",
+      "displayName": "Egg Skin",
+      "description": "Contrary to popular belief, cows do not actually lay eggs. Sorry all cow eggs lovers.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "apocalypse_skin",
+      "displayName": "Apocalypse Skin",
+      "description": "Went through an apocalypse on a different Slope. Came here to rest. You can still see their scars.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "trans_skin",
+      "displayName": "Trans Skin",
+      "description": "Fueled by a mysterious energy source titled 'T'. Always has sudden inexplicable urges to eat a pickle in sight.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "carrot_skin",
+      "displayName": "Carrot Skin",
+      "description": "Always eat the skins of carrots, they're highly nutritious! Wait, you're talking about the Slope skin? Yeah, no idea.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "baker_miller_skin",
+      "displayName": "Baker Miller Skin",
+      "description": "What is this skin, isn't this just a pink skin? ... Oh, I feel so ... calm ...",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "abstract_skin",
+      "displayName": "Abstract Skin",
+      "description": "Professional mathematician. Perfectionist, always trying to get all the shapes to line up.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "squircle_skin",
+      "displayName": "Squircle Skin",
+      "description": "Was a star athlete in soccer and Jenga. Failed in both, but it's okay, because they have a lot of heart...",
+      "rarity": "Rare"
+    },
+    {
+      "name": "vector_skin",
+      "displayName": "Vector Skin",
+      "description": "Also part of the Abstract Collection. Dislikes Abstract Skin because of their circles.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "tessellation_skin",
+      "displayName": "Tessellation Skin",
+      "description": "Final part of the Abstract Collection. Thinks they're the best because of their complicated name.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "pyramid_skin",
+      "displayName": "Pyramid Skin",
+      "description": "Thinks they look like the top-down view of a pyramid. At best they look like an aztec pyramid.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "boulder_skin",
+      "displayName": "Boulder Skin",
+      "description": "Skin from a collab with the greatest mod of all time, Boulder Slope.",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "circle_skin",
+      "displayName": "Circle Skin",
+      "description": "Dreams of becoming a hula hoop. Gets dizzy easily, but that won't stop it!",
+      "rarity": "Rare"
+    },
+    {
+      "name": "tuxedo_skin",
+      "displayName": "Tuxedo Skin",
+      "description": "A truly distinguished skin that has been to all the fanciest of parties. Polite until they find a stain on their lapel.",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "really_thick_skin",
+      "displayName": "Really Thick Skin",
+      "description": "Isn't hurt easily by criticism or insults. Get it? The creator of this mod doesn't have ideas anymore.",
+      "rarity": "Rare"
+    },
+    {
+      "name": "violet_skin",
+      "displayName": "Violet Skin",
+      "description": "Believe they are part of the Slopian Royal Family and will only respond if you refer to them as 'Your Majesty'.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "kelp_skin",
+      "displayName": "Kelp Skin",
+      "description": "Incredibly flexible. Also believes they are a mermaid. Their singing, however, well, leaves a lot to be desired.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "mint_skin",
+      "displayName": "Mint Skin",
+      "description": "A very COOL and collected skin. Has a REFRESHING personality. Are you laughing yet?",
+      "rarity": "Normal"
+    },
+    {
+      "name": "purple_skin",
+      "displayName": "Purple Skin",
+      "description": "Thinks they are very mysterious but whispers so softly you can never hear them.",
+      "rarity": "Normal"
+    },
+    {
+      "name": "pastel_skin",
+      "displayName": "Pastel Skin",
+      "description": "Soft as a cloud and light as a feather. Doesn't actually do anything in-game, it's just a description, you know?",
+      "rarity": "Rare"
+    },
+    {
+      "name": "scheele's_skin",
+      "displayName": "Scheele's Skin",
+      "description": "What? This is just an ugly green skin... Oh God... Anyone else feeling strong pain in their stomach?",
+      "rarity": "Super Rare"
+    },
+    {
+      "name": "asiimov_skin",
+      "displayName": "Asiimov Skin",
+      "description": "Minimalist at heart. Believes in the future and invests in crypto. Has fallen for too many crypto scams already...",
+      "rarity": "Uber Super Rare"
+    },
+    {
+      "name": "inverted_skin",
+      "displayName": "Inverted Skin",
+      "description": "Enemy of the default skin. Trying their best not to fit in.",
+      "rarity": "Super Rare"
+    }
+  ]
+}
